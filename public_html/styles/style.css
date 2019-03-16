@@ -1,0 +1,33 @@
+body {
+  background-color: #714288;
+}
+
+
+h1 {
+  color: #ffcccc;
+}
+
+h2 {
+  color: #ffcccc;
+}
+
+h3 {
+  color: #ffcccc;
+}
+
+p {
+  color: #ffcccc;
+  font-family: 'Coiny', cursive;
+  font-style: oblique;
+  border: solid;
+  margin: 20px;
+  padding: 10px;
+  background-color: #9873b9;
+  width: auto;
+  height: auto;
+  
+}
+
+.font {
+  font-family: "Raleway", sans-serif;
+}
