@@ -1,0 +1,43 @@
+.table {
+  width: 800px;
+  border-collapse: collapse;
+  margin: auto;
+  min-width: 800px;
+  max-width: 1000px;
+  padding: 1em;
+}
+
+table,
+td,
+th {
+  border: solid;
+  border-collapse: collapse;
+}
+
+body {
+  background-color: black;
+}
+
+.wrapper {
+  width: 80%;
+  height: auto;
+  padding: 1em;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: auto;
+  margin-top: auto;
+  background-color: white;
+  min-width: 1200px;
+  max-width: 2000px;
+  font-family: "Prompt", sans-serif;
+  color: black;
+}
+
+.header {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+  padding: 1em;
+}

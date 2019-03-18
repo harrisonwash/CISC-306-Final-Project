@@ -3,10 +3,10 @@ body {
 }
 
 .wrapper {
-  width: 80%;
+  width: auto;
+  height: auto;
   margin-right: auto;
   margin-left: auto;
-  margin-right: auto;
   margin-bottom: auto;
   margin-top: auto;
   padding: 1em;
@@ -27,6 +27,7 @@ body {
 
 nav {
   text-align: center;
+  text-decoration: none;
 }
 
 footer {

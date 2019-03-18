@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+}
+
+.wrapper {
+  width: 80%;
+  height: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: auto;
+  margin-top: auto;
+  padding: 1em;
+  background-color: white;
+  min-width: 1200px;
+  max-width: 2000px;
+  font-family: "Prompt", sans-serif;
+  color: black;
+}
+
+.header {
+  text-align: center;
+}
+
+.listcolor {
+  color: #0e2f44;
+}
+
+nav {
+  text-align: center;
+}
+  

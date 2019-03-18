@@ -20,9 +20,12 @@ body {
 
 .wrapper {
   width: 80%;
+  height: auto;
   padding: 1em;
   margin-right: auto;
   margin-left: auto;
+  margin-bottom: auto;
+  margin-top: auto;
   background-color: white;
   min-width: 1200px;
   max-width: 2000px;
@@ -32,10 +35,6 @@ body {
 
 .header {
   text-align: center;
-}
-
-.listcolor {
-  color: #0e2f44;
 }
 
 nav {
