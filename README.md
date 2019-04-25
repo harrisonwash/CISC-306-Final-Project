@@ -1,2 +1,2 @@
 # CISC-306-Final-Project-
-Final Project for CISC 306
+Final Project Sacramento City College for CISC 306
